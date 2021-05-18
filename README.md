@@ -13,7 +13,7 @@ The inital work was completed by following along the with the Treehouse workshop
 
 :white_check_mark: Update README
 
-:black_square_button: Update Repository
+:white_check_mark: Update Repository
 
 :black_square_button: Post on Instagram
 
@@ -23,6 +23,7 @@ The inital work was completed by following along the with the Treehouse workshop
 - Update componentDidMount() function [(Issue #3)](https://github.com/rheannemcintosh/treehouse-react-gif/issues/3)
 - Update perform search functions [(Issue #4)](https://github.com/rheannemcintosh/treehouse-react-gif/issues/4)
 - Update with [React Hooks tutorial](https://teamtreehouse.com/library/react-hooks)
+- Host site if possible
 
 ## Notes
 - **Language:** React.js
