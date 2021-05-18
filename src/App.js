@@ -1,3 +1,13 @@
+/**
+ * App.js
+ *
+ * Application to display and saerch for gifs
+ *
+ * Author:  Rheanne McIntosh <rheanne.mcintosh@outlook.com>
+ * Created: February 2020
+ *
+ */
+
 import axios from "axios";
 import GifList from "./Components/GifList";
 import React, { Component } from "react";

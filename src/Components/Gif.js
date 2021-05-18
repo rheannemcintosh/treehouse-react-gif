@@ -1,3 +1,12 @@
+/**
+ * Gif.js
+ * 
+ * Component to display the gif as a list item and image
+ * 
+ * Author:  Rheanne McIntosh <rheanne.mcintosh@outlook.com>
+ * Created: February 2020
+ * 
+ */
 
 import React from "react";
 

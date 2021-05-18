@@ -1,3 +1,12 @@
+/**
+ * NoGifs.js
+ * 
+ * Component to display when no gifs are found in a search
+ * 
+ * Author:  Rheanne McIntosh <rheanne.mcintosh@outlook.com>
+ * Created: February 2020
+ * 
+ */
 
 import React from "react";
 

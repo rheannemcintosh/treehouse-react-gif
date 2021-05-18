@@ -1,3 +1,12 @@
+/**
+ * SearchForm.js
+ * 
+ * Component for Search for Gifs Form 
+ * 
+ * Author:  Rheanne McIntosh <rheanne.mcintosh@outlook.com>
+ * Created: February 2020
+ * 
+ */
 
 import React, { Component } from "react";
 

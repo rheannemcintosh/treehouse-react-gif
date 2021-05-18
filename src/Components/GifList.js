@@ -1,3 +1,12 @@
+/**
+ * GifList.js
+ * 
+ * Component to display a list of all gifs or display no gifs
+ * 
+ * Author:  Rheanne McIntosh <rheanne.mcintosh@outlook.com>
+ * Created: February 2020
+ * 
+ */
 
 import Gif from "./Gif";
 import NoGifs from "./NoGifs";
